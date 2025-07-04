@@ -12,8 +12,8 @@ The dataset used, titled  *KMS Sql Case Study.csv* and *Order_Status.csv* was pr
 #### Features used :
 -	Microsoft Excel: Used for CSV data handling
 -	Microsoft SQL Server Management Studio 20:
- o	Create database
- o	Select statement
+  -	Create database
+  - Select statement
  o	Where clause
  o	Group by clause
  o	Order by clause
