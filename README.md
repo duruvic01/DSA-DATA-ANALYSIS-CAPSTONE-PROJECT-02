@@ -61,4 +61,4 @@ o	Upsell frequently purchased items
 o	Promotion of bundle offers
 o	Reach the out for feedback survey
 ### Appendix 
--	Here is the [.sql file](https://github.com/duruvic01/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-02/blob/main/KMS.ssmssln) and the [pdf] containing all the queries used in this analysis
+-	Here is the [.sql file](https://github.com/duruvic01/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-02/blob/main/KMS.ssmssln) and the [pdf](https://github.com/duruvic01/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-02/blob/main/KMS_SQL_DSA.pdf)containing all the queries used in this analysis
