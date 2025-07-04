@@ -7,7 +7,7 @@ The dataset used, titled  *KMS Sql Case Study.csv* and *Order_Status.csv* was pr
 
 ### Tools & Features: 
 #### Tools: 
--	Microsoft Excel  [Download Here](http)
+-	Microsoft Excel  [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=1d9ec785832e634d3841d23c828262a5)
 -	Microsoft SQL Server Management Studio 20 
 #### Features used :
 -	Microsoft Excel: Used for CSV data handling
@@ -61,4 +61,4 @@ o	Upsell frequently purchased items
 o	Promotion of bundle offers
 o	Reach the out for feedback survey
 ### Appendix 
--	Here is the .sql file containing all the queries used in this analysis
+-	Here is the [.sql file](https://github.com/duruvic01/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-02/blob/main/KMS.ssmssln) containing all the queries used in this analysis
