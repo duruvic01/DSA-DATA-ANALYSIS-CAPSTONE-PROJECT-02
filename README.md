@@ -12,15 +12,15 @@ The dataset used, titled  *KMS Sql Case Study.csv* and *Order_Status.csv* was pr
 #### Features used :
 -	Microsoft Excel: Used for CSV data handling
 -	Microsoft SQL Server Management Studio 20:
-  -	Create database
-  - Select statement
- o	Where clause
- o	Group by clause
- o	Order by clause
- o	Having clause
- o	Aliasing 
- o	Joins
- o	Subqueries 
+  1. Create database
+  2. Select statement
+  3. Where clause
+  4. Group by clause
+  5. Order by clause
+  6. Having clause
+  7. Aliasing 
+  8. Joins
+  9.	Subqueries 
 ### Exploratory Data Analysis(EDA)
 EDA involved the exploring of the Data to answer some questions about the Data such as:
 #### Case Scenario I
@@ -47,18 +47,18 @@ The line of queries used during the analysis are seen in the attached *KMS.sql* 
 -	**Returns** was seen in all segments, however **Consumer customers** showed the highest number.
 -	KMS incurred the most shipping cost via **Delivery truck**.
 -	If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
-o	No the company did not appropriately spend shipping costs based on Order Priority.
-o	This is because the delivery truck despite being the slowest & most economical was used for some orders with a Critical Order Priority, which contradicts the implied urgency by that priority level. 
-o	Also the Express Air being the fastest & most expensive was also used for some orders with a Low Order Priority, which is evidently not cost-effective.
-o	All this suggests that shipping methods were assigned not on Order Priority, but was selected **based on the customer’s preference at the point of purchase**.
+- No the company did not appropriately spend shipping costs based on Order Priority.
+- This is because the delivery truck despite being the slowest & most economical was used for some orders with a Critical Order Priority, which contradicts the implied urgency by that priority level.
+- Also the Express Air being the fastest & most expensive was also used for some orders with a Low Order Priority, which is evidently not cost-effective.
+- All this suggests that shipping methods were assigned not on Order Priority, but was selected **based on the customer’s preference at the point of purchase**.
 ### Recommendations 
 -	Stricter business rules for shipping modes should be established based on Order Priority
 -	Consider the following recommendations to increase the revenue from the bottom 10 customers; 
-o	Loyalty offers
-o	Running personalized discounts
-o	Offering referral incentives 
-o	Upsell frequently purchased items
-o	Promotion of bundle offers
-o	Reach the out for feedback survey
+1. Loyalty offers
+2. Running personalized discounts
+3. Offering referral incentives 
+4. Upsell frequently purchased items
+5. Promotion of bundle offers
+6. Reach the out for feedback survey
 ### Appendix 
 -	Here is the [.sql file](https://github.com/duruvic01/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-02/blob/main/KMS.ssmssln) and the [pdf](https://github.com/duruvic01/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-02/blob/main/KMS_SQL_DSA.pdf) containing all the queries used in this analysis
